@@ -42,3 +42,12 @@ msbuild.wrn
 node_modules
 
 emsdk
+
+# Zig artifacts
+zig-cache/
+zig-out/
+/release/
+/debug/
+/build/
+/build-*/
+/docgen_tmp/
